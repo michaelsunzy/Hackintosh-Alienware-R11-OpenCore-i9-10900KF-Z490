@@ -12,3 +12,5 @@ Alienware R11:
 - SSD: WD SN750 512GB M.2 PCIe SSD
 - GPU: AMD Radeon Pro WX 4100
 - WIFI&Blutooth: Broadcom Bcm94360cs 
+
+# BIOS Settings
