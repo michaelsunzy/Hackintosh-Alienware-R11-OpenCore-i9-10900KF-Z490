@@ -24,5 +24,6 @@ Alienware R11:
 - [x] Sleep/Wake
 - [x] DRM
 - [x] H264/HEVC Hardware Accelerated Encode
-!USB(/Alienware R11 USB Mapping.pdf)
+
+(/Alienware R11 USB Mapping.pdf)
 # BIOS Settings
