@@ -19,9 +19,10 @@ Alienware R11:
 - [x] Audio: Realtek ALC3861 (ALC 899, Layout ID: 1) AppleALC.kext
 - [x] Ethernet: Killer E3000 (Realtek R8125) LucyRTL8125Ethernet.kext
 - [x] WIFI & Blutooth: Broadcom Bcm94360cs (Native support, no kext needed)
-- [x] USB Mapping to 15 ports
+- [x] USB Mapping to 15 ports (USBports.kext)
+- [x] Airplay/Airdrop/Handoff
 - [x] Sleep/Wake
 - [x] DRM
-
+- [x] H264/HEVC Hardware Accelerated Encode
 
 # BIOS Settings
