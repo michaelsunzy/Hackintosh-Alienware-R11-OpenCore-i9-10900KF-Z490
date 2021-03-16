@@ -1,6 +1,7 @@
 # Hackintosh Alienware R11 OpenCore
  
 # Hardware
+
 Alienware R11:
  CPU: i9 10900KF (10-Core, 20MB Cache, 3.7GHz to 5.3GHz w/Thermal Velocity Boost)
  Motherboard: Intel Z490
