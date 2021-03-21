@@ -25,5 +25,5 @@ Alienware R11:
 - [x] DRM
 - [x] H264/HEVC Hardware Accelerated Encode
 
-(/Alienware R11 USB Mapping.pdf)
+(/About This Mac.png)
 # BIOS Settings
