@@ -10,12 +10,12 @@ Alienware R11:
 
 - RAM: Trident Z RGB DDR4-3200MHz CL14-14-14-34 1.35V 16GB (2x8GB)
 - SSD: WD SN750 512GB M.2 PCIe SSD
-- GPU: AMD Radeon Pro WX 4100
+- GPU: AMD Radeon Pro WX 9100
 - WIFI&Blutooth: Broadcom Bcm94360cs M.2
 
 # What's working
 
-- [x] DGPU: AMD Radeon Pro WX 4100 (Native support without Whatevergreen kext)
+- [x] DGPU: AMD Radeon Pro WX 9100 (Native support without Whatevergreen kext)
 - [x] Audio: Realtek ALC3861 (ALC 899, Layout ID: 1) AppleALC.kext
 - [x] Ethernet: Killer E3000 (Realtek R8125) LucyRTL8125Ethernet.kext
 - [x] WIFI & Blutooth: Broadcom Bcm94360cs (Native support, no kext needed)
